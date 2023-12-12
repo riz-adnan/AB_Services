@@ -12,8 +12,8 @@ const Services = () => {
             <div class="row">
                 <div class="col-lg-6">
                     <div class="section-title">
-                        <h2>What I Do</h2>
-                        <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites</p>
+                        <h2>What We Do</h2>
+                        <p>We provide solutions to all your home related problems. Our services ranges from painting to furniture.</p>
                     </div>
                 </div>
             </div>
@@ -25,8 +25,8 @@ const Services = () => {
                             <i class="fa fa-desktop"></i>
                         </div>
                         <div class="feature-content">
-                            <h5>Unique design</h5>
-                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites.</p>
+                            <h5>Furniture</h5>
+                            <p>We design and create best furnitures for customers of all sizes, specializing in creating stylish, modern sofas.</p>
                             <Link to="/form" className='link-info' >Book a Call</Link>
                         </div>
                     </div>
@@ -38,8 +38,8 @@ const Services = () => {
                             <i class="fa fa-user"></i>
                         </div>
                         <div class="feature-content">
-                            <h5>Different Layout</h5>
-                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites.</p>
+                            <h5>Bath Fittings</h5>
+                            <p>We design and handcraft best and budget friendly bath fittings for our customers, available in all sizes.</p>
                             <Link to="/form" className='link-info' >Book a Call</Link>
                         </div>
                     </div>
@@ -51,8 +51,8 @@ const Services = () => {
                             <i class="fa fa-comment"></i>
                         </div>
                         <div class="feature-content">
-                            <h5>Make it Simple</h5>
-                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites.</p>
+                            <h5>Paint</h5>
+                            <p>We paint the dreams of our customers on the wall providing full consultancy help to them.</p>
                             <Link to="/form" className='link-info' >Book a Call</Link>
                         </div>
                     </div>
@@ -64,8 +64,8 @@ const Services = () => {
                             <i class="fa fa-image"></i>
                         </div>
                         <div class="feature-content">
-                            <h5>Responsiveness</h5>
-                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites.</p>
+                            <h5>False Ceiling</h5>
+                            <p>We specialize in creating best designed false ceilig for our customers</p>
                             <Link to="/form" className='link-info' >Book a Call</Link>
                         </div>
                     </div>
@@ -77,8 +77,8 @@ const Services = () => {
                             <i class="fa fa-th"></i>
                         </div>
                         <div class="feature-content">
-                            <h5>Testing for Perfection</h5>
-                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites.</p>
+                            <h5>Electric Fittings</h5>
+                            <p>Leave the circuits to us! . We specialize in managing the full circuits of the house.</p>
                             <Link to="/form" className='link-info' >Book a Call</Link>
                         </div>
                     </div>
@@ -90,8 +90,8 @@ const Services = () => {
                             <i class="fa fa-cog"></i>
                         </div>
                         <div class="feature-content">
-                            <h5>Advanced Options</h5>
-                            <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites.</p>
+                            <h5>Pest Control </h5>
+                            <p>Specialize in pest control. Book a call.</p>
                             <Link to="/form" className='link-info' >Book a Call</Link>
                         </div>
                     </div>
