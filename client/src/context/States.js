@@ -9,7 +9,7 @@ const States = (props) => {
 const [calls,setcalls]=useState([])
 
 const getcalls = async () => {
-    const response = await fetch("http://localhost:5000/api/service/getcalls", {
+    const response = await fetch("https://abservices.onrender.com/api/service/getcalls", {
         method: "GET",
         headers: {
             "auth-token": localStorage.getItem('token'), 
@@ -21,7 +21,7 @@ const getcalls = async () => {
     setcalls(json)
 }
 const getcustomer = async () => {
-    const response = await fetch("http://localhost:5000/api/service/getcustomer", {
+    const response = await fetch("https://abservices.onrender.com/api/service/getcustomer", {
         method: "GET",
         headers: {
             "auth-token": localStorage.getItem('token'),
@@ -34,7 +34,7 @@ const getcustomer = async () => {
 }
 
 const postcall = async (name, phone, location, service,requirement,image) => {
-    const response = await fetch("http://localhost:5000/api/service/addcall", {
+    const response = await fetch("https://abservices.onrender.com/api/service/addcall", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
