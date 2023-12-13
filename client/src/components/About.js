@@ -32,10 +32,10 @@ const About = () => {
 
       <div class="row">
          <div class="col-md-12 pb-20 text-center"> 
-            <h2 class="section-title mb-10"><span> Some <strong class="primary-color">Vertex</strong> Core Featuress </span></h2>
+            <h2 class="section-title mb-10"><span> Our <strong class="primary-color">Vertex</strong> Core Featuress </span></h2>
            <p class="section-sub-title">
-               We are a passionate digital design agency that specializes in beautiful and easy-to- <br/>
-               use digital design &amp; web development services.
+               We are a passionate house solution agency that specializes in beautiful and fast <br/>
+               services &amp; furnitures.
             </p>
             <div class="exp-separator center-separator">
                <div class="exp-separator-inner">
@@ -54,8 +54,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">Fully Responsive Design</h3>
                      <p class="sub-title">
-                        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                        consequat vitae, eleifend ac, enim ante, dapibus in.
+                        We create one of the best designs of the world. We are creative and have experience to make your house look beatuiful.
                      </p>
                   </div>
                   <div class="iconlist-timeline"></div>
@@ -64,10 +63,9 @@ const About = () => {
                   <div class="icon"> <i class="fa fa-code"></i> </div>
 
                   <div class="icon-content">
-                     <h3 class="title">Easy &amp; Clean Code</h3>
+                     <h3 class="title">Easy &amp; Clean Service</h3>
                      <p>
-                        Aenean vulputate tellus. Aenean leo ligula, porttitor eu,
-                        consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.
+                        Easily book a service through our website and we are at your home delivering the best service.
                      </p>
                   </div>
                   <div class="iconlist-timeline"></div>
@@ -78,8 +76,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">24/7 Customer Support</h3>
                      <p>
-                        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                        consequat, eleifend ac, enim lorem ante, dapibus in.
+                        Our customer support is fully responsive and readily avsilable to help you with any query 24/7.
                      </p>
                   </div>
                </li>
@@ -92,8 +89,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">Endless Possibilites</h3>
                      <p class="sub-title">
-                        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                        consequat vitae, eleifend Aliquam lorem ante, dapibus in.
+                        We have a wide range of services and furnitures to choose from. We have a wide range of services and furnitures to choose from.
                      </p>
                   </div>
                   <div class="iconlist-timeline"></div>
@@ -103,8 +99,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">Free Lifetime Updates</h3>
                      <p>
-                        Aenean eleifend tellus. Aenean leo ligula, porttitor eu
-                        consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.
+                        We provide free lifetime updates to our customers. We provide free lifetime updates to our customers.
                      </p>
                   </div>
                   <div class="iconlist-timeline"></div>
@@ -114,8 +109,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">Clean &amp; Modern Design</h3>
                      <p>
-                        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                        consequat vitae, eleifend enim lorem ante, dapibus in.
+                        We have a clean and modern design. We have a clean and modern design. We have a clean and modern design.
                      </p>
                   </div>
                </li>
@@ -126,10 +120,9 @@ const About = () => {
                <li class="i-list-item">
                   <div class="icon"> <i class="fa fa-codepen"></i> </div>
                   <div class="icon-content">
-                     <h3 class="title">Useful Shortcodes</h3>
+                     <h3 class="title">Best Servicemen</h3>
                      <p class="sub-title">
-                        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                        consequat vitae, eleifend ac, enim. Aliquam lorem ante.
+                        We choose the best servicement to deliver the best service to you. We choose the best servicement to deliver the best service to you.
                      </p>
                   </div>
                   <div class="iconlist-timeline"></div>
@@ -139,8 +132,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">Multipurpose Concept</h3>
                      <p>
-                        Aenean vulputate eleifend tellus ligula, porttitor eu,
-                        consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in.
+                        We have a multipurpose concept. We have a multipurpose concept. We have a multipurpose concept.
                      </p>
                   </div>
                   <div class="iconlist-timeline"></div>
@@ -150,8 +142,7 @@ const About = () => {
                   <div class="icon-content">
                      <h3 class="title">Crafted With Love</h3>
                      <p>
-                        Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu,
-                        consequat vitae, eleifend ac lorem ante, dapibus in.
+                        We bring the love to along with our sevice to make your dream house come true.
                      </p>
                   </div>
                </li>
