@@ -1,6 +1,7 @@
 import React,{useState,useContext} from 'react'
 import Layout from '../layout/Layout'
 import Contexts from '../context/Contexts';
+import { useNavigate } from 'react-router-dom';
 const Hform = () => {
     const context = useContext(Contexts);
     const {postcall} = context;
@@ -11,8 +12,9 @@ const Hform = () => {
     const handleClick = (e)=>{
         e.preventDefault();
         console.log(call)
+        const navigate = useNavigate();
         postcall(call.name, call.phone, call.location, call.service,call.requirements,call.image);
-       
+       navigate('/');
     }
 
    

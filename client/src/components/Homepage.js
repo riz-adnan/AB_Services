@@ -39,7 +39,7 @@ const Homepage = () => {
                         <h2 class="h4 fw-bolder">Bath Fitting</h2>
                         <p>We excel in providing best bath solution to your dream home. Book a service to see it yourself</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
@@ -48,16 +48,16 @@ const Homepage = () => {
                         <h2 class="h4 fw-bolder">Paint</h2>
                         <p>With the best artist around India, we are capable to give your the best look it deseves. Book a service to view it yourself</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
                         <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="fa-solid fa-couch"></i></div>
                         <h2 class="h4 fw-bolder">Furniture</h2>
-                        <p>One of the finest quality furniture around India along with state of art design will make your house look luxurious. Call us to know more about it.</p>
+                        <p>One of the finest quality furniture around India along with state of art design will make your house look luxurious. Call us to Book a service about it.</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
@@ -70,7 +70,7 @@ const Homepage = () => {
                         <h2 class="h4 fw-bolder">Eelectric Fitting</h2>
                         <p>We can handle all your electric fitting guaranting you houses' safety.Book a service to give safety of your house in safe hands.</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
@@ -79,7 +79,7 @@ const Homepage = () => {
                         <h2 class="h4 fw-bolder">Plumber</h2>
                         <p>Call us for plumber services. We provide the best and cheap solutions for water leakges. Book a call to get know about us..</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
@@ -88,7 +88,7 @@ const Homepage = () => {
                         <h2 class="h4 fw-bolder">False Ceiling</h2>
                         <p>Give your house a new look. Try our new designs of false ceilings. To view it call us or book a service.</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
@@ -98,28 +98,28 @@ const Homepage = () => {
     <div class="row gx-5">
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="fa-solid fa-bath"></i></div>
-                        <h2 class="h4 fw-bolder">Eelectric Fitting</h2>
-                        <p>We can handle all your electric fitting guaranting you houses' safety.Book a service to give safety of your house in safe hands.</p>
+                        <h2 class="h4 fw-bolder">AC Repair and Maintainance</h2>
+                        <p>We provide best services and repairs for your electronic appliances. We provide fast service.</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
                     <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="fa-solid fa-bath"></i></div>
-                        <h2 class="h4 fw-bolder">Eelectric Fitting</h2>
-                        <p>We can handle all your electric fitting guaranting you houses' safety.Book a service to give safety of your house in safe hands.</p>
+                        <h2 class="h4 fw-bolder">Pest Control </h2>
+                        <p>We provide the best pest control service. We deliver service within hours. </p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>
                         <div class="col-lg-4 mb-5 mb-lg-0">
                         <div class="feature bg-primary bg-gradient text-white rounded-3 mb-3"><i class="fa-solid fa-bath"></i></div>
-                        <h2 class="h4 fw-bolder">Eelectric Fitting</h2>
-                        <p>We can handle all your electric fitting guaranting you houses' safety.Book a service to give safety of your house in safe hands.</p>
+                        <h2 class="h4 fw-bolder">Fabrication</h2>
+                        <p>We provide the best Fabrication in the city.</p>
                         <a class="text-decoration-none" href="#!">
-                            Know More
+                            Book a service
                             <i class="fa fa-arrow-right"></i>
                         </a>
                     </div>

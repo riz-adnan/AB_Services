@@ -1,4 +1,5 @@
 import React,{useState,useContext} from 'react'
+import { useNavigate } from 'react-router-dom';
 import Layout from '../layout/Layout'
 import Contexts from '../context/Contexts';
 const Form = () => {
@@ -9,10 +10,12 @@ const Form = () => {
     const [call, setCall] = useState({name: "", phone: "", location: "",service:"",requirements:"",image:""})
 
     const handleClick = (e)=>{
+
         e.preventDefault();
+        const navigate = useNavigate();
         console.log(call)
         postcall(call.name, call.phone, call.location, call.service,call.requirements,call.image);
-       
+       navigate('/');
     }
 
    
